@@ -1,0 +1,33 @@
+Subscription_Status,Metro_Code,Poverty_Level_Code,Expiring_Dollars
+Not Renewed,R,A,4
+Not Renewed,R,B,73
+Not Renewed,R,C,195
+Not Renewed,R,D,76
+Not Renewed,S,A,13
+Not Renewed,S,B,146
+Not Renewed,S,C,261
+Not Renewed,S,D,88
+Not Renewed,T,A,4
+Not Renewed,T,B,39
+Not Renewed,T,C,136
+Not Renewed,T,D,53
+Not Renewed,U,A,3
+Not Renewed,U,B,70
+Not Renewed,U,C,298
+Not Renewed,U,D,184
+Renewed,R,A,90
+Renewed,R,B,1530
+Renewed,R,C,3080
+Renewed,R,D,937
+Renewed,S,A,196
+Renewed,S,B,1572
+Renewed,S,C,2163
+Renewed,S,D,486
+Renewed,T,A,33
+Renewed,T,B,616
+Renewed,T,C,1803
+Renewed,T,D,741
+Renewed,U,A,42
+Renewed,U,B,555
+Renewed,U,C,1947
+Renewed,U,D,1317
